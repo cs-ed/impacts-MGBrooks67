@@ -1,6 +1,6 @@
 # Impacts on Society
 
-Describe your course including the name, description, and grade level. Broadly explain how this document details how you plan to incorporate issues of computing impacts on society in your course
+Describe your course including the name, description, and grade level. The Introduction to Computer Science (Intro to CS) course doesn't require any prior computer science knowledge in order to be successful. Simply an interest in computer science and willingness to learn about ‘the mysteries of computers’. Intro to CS is meant to be a semester-long learning experience to explore interest in computer science as a whole. The overall speed of the course is slowed down with a reduction in content to emphasize letting students learn and explore these fundamental concepts at a pace that works best for them. This course is open to 9th - 12th grades, but will, most likely, draw many 9th graders. Broadly explain how this document details how you plan to incorporate issues of computing impacts on society in your course
 
 ## Plan
 
