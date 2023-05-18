@@ -6,7 +6,12 @@
 
 ### Learning Objectives
 
-Describe the learning objectives for the class that relate to social impacts. Consider using Bloom's Taxonomy to identify the types of cognitive and/or affective outcomes (and their associated verbs): https://bloomstaxonomy.net/
+**Describe the learning objectives for the class that relate to social impacts. Consider using Bloom's Taxonomy to identify the types of cognitive and/or affective outcomes (and their associated verbs)** 
+1. Define computer science and the role of a computer scientist.
+2. Recognize the social impacts (positive/negative, intended/unintended) from an example of a product or process of computer science.
+3. Give examples of products or processes of computer science and their social impacts.
+4. Analyze the costs and benefits of the social impacts of computer science.
+5. Create a wiki page to share the results of your analysis.
 
 ### Learning Activities
 
