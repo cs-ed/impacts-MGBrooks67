@@ -7,15 +7,24 @@
 ### Learning Objectives
 
 **Describe the learning objectives for the class that relate to social impacts. Consider using Bloom's Taxonomy to identify the types of cognitive and/or affective outcomes (and their associated verbs)** 
-1. Define computer science and the role of a computer scientist.
-2. Recognize the social impacts (positive/negative, intended/unintended) from an example of a product or process of computer science.
-3. Give examples of products or processes of computer science and their social impacts.
-4. Analyze the costs and benefits of the social impacts of computer science.
-5. Create a wiki page to share the results of your analysis.
+1. **Define** computer science and the role of a computer scientist.
+2. **Recognize** the social impacts (positive/negative, intended/unintended) from an example of a product or process of computer science.
+3. **Give examples** of products or processes of computer science and their social impacts.
+4. **Analyze** the costs and benefits of the social impacts of computer science.
+5. **Create** a wiki page to share the results of your analysis.
 
 ### Learning Activities
 
-Describe the learning activities and how they will be incorporated into the class. For example, will they include class discussion, written reports, homework, or exams? Will the activity be a one-time lesson or used multiple times in class?
+**Describe the learning activities and how they will be incorporated into the class. For example, will they include class discussion, written reports, homework, or exams? Will the activity be a one-time lesson or used multiple times in class?**
+This introductory lesson/activity will introduce the students to the basics of computer science and establish a habit of considering the social impacts of computer science throughout the semester.
+- Working independently at first, students will read and annotate a definition of computer science (from WikiPedia). Working in a small group (3-4) students will decode the definition and create their own (group) working definition for computer science. Working as a class, we will discuss the working definitions and create a group definition of computer science.
+- We will watch the film “War Games” as a class. Students will have a movie guide that will pose questions and facilitate a critical watching of the film. 
+Students will collect evidence of decisions made by the computer scientists on the movie guide which will be used during a class discussion about how those decisions affected society in the film. The discussion will focus on the positive and negative effects and whether these effects were intended or unintended.
+- Building on our observations and discussion, students will brainstorm a list of products or processes used by computer scientists and the impacts these things have on society today.
+- Students will select a product or application of computer science from the list to research on their own. Students will publish their findings on a class wiki that will be published to the public. 
+
+The document, and the film will be revisited throughout the course to focus attention on the many ways the computer science we are studying affects the world we live in.
+
 
 ### Assessment
 
